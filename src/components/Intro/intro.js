@@ -11,8 +11,9 @@ const Intro = () => {
             <span className="hello">Hello,</span>
             <span className="introText">I'm <span className="introName">JM </span> <br />Handsome Student</span>
             <p className="introPara">I'm friendly, nice, and a very handsome boy.</p>
+             <a href= "https://www.facebook.com/JomzkieNiles18?mibextid=ZbWKwL" target="_blank>
             <Link><button className="btn"><img src={btnImg}alt="Pinduta lang" className="btnImg" />PINDUTA LANG</button></Link>
-
+        </a>
         </div>
         <img src={bg}alt="Profile" className="bg"/>
        </section>
