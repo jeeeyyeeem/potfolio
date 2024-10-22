@@ -42,8 +42,12 @@ const Contact = () => {
                         <img src={FacebookIcon} alt="Facebook" className="link"/>
                         </a>
                         <img src={TwitterIcon} alt="Twitter" className="link"/>
-                        <img src={YoutubeIcon} alt="Youtube" className="link"/>
+                          <a href="https://youtube.com/@joemarienillos?si=XoeX2W_ytD_hTBuh" target= "_blank">
+                         <img src={YoutubeIcon} alt="Youtube" className="link"/>
+                         </a>
+        <a href="https://www.instagram.com/_ur.sol?igsh=MWcyYzVxeHM2ZTBrZA==" target="_blank">
                         <img src={InstagramIcon} alt=" Instagram" className="link"/>
+        </a>
                     </div>
                 </form>
             </div>
