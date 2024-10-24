@@ -38,14 +38,14 @@ const Contact = () => {
                     <textarea className='msg' name="message" rows="5" placeholder='Your Message'></textarea>
                     <button type='submit' value='Send' className="submitBtn">SUBMIT</button>
                     <div className="links">
-                        <a href="https://www.facebook.com/JomzkieNiles18?mibextid=ZbWKwL" target="_blank">
+                        <a href="https://www.facebook.com/JomzkieNiles18?mibextid=ZbWKwL">
                         <img src={FacebookIcon} alt="Facebook" className="link"/>
                         </a>
                         <img src={TwitterIcon} alt="Twitter" className="link"/>
-                          <a href="https://youtube.com/@joemarienillos?si=XoeX2W_ytD_hTBuh" target= "_blank">
+                          <a href="https://youtube.com/@joemarienillos?si=XoeX2W_ytD_hTBuh">
                          <img src={YoutubeIcon} alt="Youtube" className="link"/>
                          </a>
-        <a href="https://www.instagram.com/_ur.sol?igsh=MWcyYzVxeHM2ZTBrZA==" target="_blank">
+        <a href="https://www.instagram.com/_ur.sol?igsh=MWcyYzVxeHM2ZTBrZA==">
                         <img src={InstagramIcon} alt=" Instagram" className="link"/>
         </a>
                     </div>
